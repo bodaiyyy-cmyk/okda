@@ -368,6 +368,7 @@ background-color: #5e2f2f
     #D2A679 100%
 );
 
+
     
     text-align: center;
 }
@@ -382,7 +383,7 @@ background-color: #5e2f2f
 }
 
 .about h2 {
-    font-size: 45px;
+    font-size: 50px;
 
     margin: 20px 0;
 }
@@ -398,6 +399,13 @@ background-color: #5e2f2f
 
     font-size: 18px;
 }
+
+#line-new {
+    font-family: "Vazirmatn", sans-serif;
+    font-weight: 800;
+    font-size: 28px;
+}
+
 
 
 /* =========================
